@@ -17,15 +17,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.shaunbruce.com" # the base hostname & protocol for your site
 twitter_username: sbruce
 github_username:  sbruce
-instagram_username: 
-flickr_username: 
+instagram_username:
+flickr_username:
 foursquare_username:
 # Tumblr URL
-tumblr_url: http://tumblr.com
+tumblr_url:
 # Linkedin profile URL - Expecting a full url, not username
-linkedin_url: http://linkedin.com
+linkedin_url:
 # Facebook profile URL - Expecting a full url, not username
-facebook_url: http://facebook.com
+facebook_url:
 
 
 # Can be over ridden with author: in Front Matter
